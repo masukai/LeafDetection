@@ -1,0 +1,2 @@
+python convert_vott_dataset.py dataset/save dataset
+python train_custom.py --dataset_dir dataset --weights weights/darknet53.conv.74 --config config/yolov3_custom.yaml
