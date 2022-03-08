@@ -72,7 +72,7 @@ def write_label(path, label):
 
 def output_dataset(output_dir, samples, test_size):
     # Copy images to <output_dir>/images directory.
-    imgs_dir = output_dir / "images"
+    imgs_dir = output_dir / "imgs"
     imgs_dir.mkdir(parents=True, exist_ok=True)
 
     with futures.ThreadPoolExecutor() as executor:

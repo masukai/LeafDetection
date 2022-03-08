@@ -5,7 +5,7 @@
         "name": "LeafDetection",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiN2E0OWNiOGZiMDA2MjgxMjVkZTMzYzcxY2I3MmRhNzI2YWIzNDIwM2NjNDBmYjdiNTZlNDVkZGM3ODY5ZGYwZmU2YzZhNWMxNGNlNjQ0YzUyMzIzYjkxZDM2NzE1OWYwOTkyOTExN2VkZGVjZWU4MTA5MTExOGYwY2NkYjM5NjdjMTAxMmYxZTI3ZjJmYzA5NzJhYjdiMWNiOTJhMzgxNiIsIml2IjoiNDg5NmI0NDY2MTAxNTJmMzRkNWM3NjA5Yjg3ZjJlZjZjMTA0NDFkMmI3ZDUzY2Q0In0="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZWJhMGNiY2E0ZmZiMjRlODk1MjIxZDg4OGFiZTZhNjUxYjAzYWJiMjFlMTAwMTNhYzY2M2MxMDJkNDk0MTRiMjhjZTQ0MDJkMGFiYzQ2OWI5YzU2YjRjNDU3YzNmOTEyMDFjOWU0OTRiMTQyNDE2YTAyNGZlOWE4Y2ZjYzY5NGIwNDFjZWY0ZTJjYThmOWM1NTM4YTgzNTc4YzBjNWJhYiIsIml2IjoiMmZkZDI3MGNhNmE1Y2ViZDZkNjkxODkxNTQyYjdlMzRjOTgwNWViYzM3MDU4MTFlIn0="
         },
         "id": "UL34QY5wQ"
     },
@@ -13,7 +13,7 @@
         "name": "LeafDetectionSave",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMmFkOWM1ZmUwMmFlOWYxMzJkNjkxYzFlY2Y0MGE5ZDU3ZjAxYzZiMjE2ZWQ1NTdiMzBhNWMzMThiZGVmY2VhMzBmZGViOWRhYjM5MTZhZTQ1YjU1MmM5M2MwMmE1ZTgyYTE1MmU4ZDllNzYxNTFmOTlhMTk1YjQwZmVjMWJhNTVkZTFhYTczYjU4YzM3YjhjM2FmODg3MDVhMjE5ZDkwMyIsIml2IjoiYmJjZjgwNmZkM2MzYTY5MDRlMzU4YmQzNjhmYWI4MGU1MjRlYzNlNDQyY2Q4ZmJlIn0="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNDMwMjYxNzlhMjdlMTE5NzE1MDExYWI2ZmNhMjYzNjI5ZTJjZDQ4ODlkYjMyMjc2NTZlNjc4ODJjMTFlNThiZTEzYjZjNmMzODAyMjBjZjQyYWM0YmM3NzA2NWMyYTg1ZTVmNDU0Y2QxNzczZDE5OWNiYjhiOTcyN2RiMDAzYmE3ZWUzMWFkN2FlYzU4MzNlZDJjMzNmZDc1YWU4OWVjNyIsIml2IjoiMzRlNmFhODAzOGRjYzdjMTQ4NTI2NTUyOTRkMTA2ZTFjZmQ4NmExM2MyNDJiZTFjIn0="
         },
         "id": "DPXzsjwUN"
     },
@@ -47,11 +47,11 @@
     "exportFormat": {
         "providerType": "vottJson",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZmEwMDgzMDc4Yjg4YjI5Zjk2MDI3OTUyODI4ZmY5ZTQwNjUyMzFhZGZhMzIyMjYzNjVlYmM3NzU3NzBkZTNiYjkxYWQ5Mjc3YzFlZTVkMjYwMTA1MmM0NmUxOTQzYWU0IiwiaXYiOiJhNjZlNTgzZDZhNmJkYWFmNDY0Y2VkNDZjMWQ1ZTIzMDNmNzdjZTAyYWUxM2NkYzgifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMjU2MWMwNTAxYTRjYWQzYzY3ODhmYjc4Yjk3MzZhNDhiYTVlNzUyMjE1NWMxNzE1ZTYxOGE4ZGI3NGEwZDMyMTljMzFhY2Q5NGU0OTNkMzg4NmM2OTE3MWI0YmE4ODIyIiwiaXYiOiI0YmY4NzY5NDk5NDI5ZmVhYmQzZDA5OWJiZTY2ZmVkYjJiZWI2MGI1MzI5MDhmYjIifQ=="
         }
     },
     "version": "2.2.0",
-    "lastVisitedAssetId": "e80ca4d3c7391daf73dc1b327d4b242b",
+    "lastVisitedAssetId": "ed280d3d12962cc6605a78fad9cb3906",
     "assets": {
         "930785e7fb44343b219bf54317cc8598": {
             "format": "jpg",
@@ -62,7 +62,7 @@
                 "width": 2218,
                 "height": 2016
             },
-            "state": 1,
+            "state": 2,
             "type": 1
         },
         "c228888b8c3447f6e05b9edc051530d2": {
@@ -74,7 +74,7 @@
                 "width": 2209,
                 "height": 2004
             },
-            "state": 1,
+            "state": 2,
             "type": 1
         },
         "11ef2ba5c8b8d6624ab18b24d1c0be62": {
