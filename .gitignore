@@ -1,12 +1,9 @@
 .DS_Store
 dataset
-dataset.zip
-dataset_all.zip
 
 # other files
 pytorch_yolov3
 
 # 20220311 stop
-yolov3
 weights
 train_output
